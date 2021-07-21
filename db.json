@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json",
+      "author": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json",
+      "author": "typicode"
+    },
+    {
+      "title": "Assignment-2",
+      "author": "root",
+      "id": 4
+    },
+    {
+      "title": "Assignment-2",
+      "author": "root",
+      "id": 5
+    },
+    {
+      "title": "Assignment-2",
+      "author": "root",
+      "id": 6
+    },
+    {
+      "title": "Assignment-3",
+      "author": "root",
+      "id": 7
+    },
+    {
+      "title": "Assignment-3",
+      "author": "root",
+      "id": 8
+    },
+    {
+      "title": "Assignment-3",
+      "author": "root",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "title": "json",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "name": "ABC",
+      "email": "abc@gmail.com"
+    }
+  ]
+}
